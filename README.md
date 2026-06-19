@@ -16,3 +16,4 @@ This is a standalone repository containing the core ENC-ODE implementation.
 - This repository is intentionally minimal and excludes data, baseline experiments, and analysis notebooks.
 - Dataset files should be provided separately; scripts assume a dataset path such as `../datasets/`.
 - `ODEs.py` includes code adapted from `rtqichen/ffjord`.
+# enc-ode
